@@ -5,6 +5,7 @@ Mi nombre es Samuel Quiaro,Vivo en Venezuela Soy Ing. Informática con +3 años 
 ## Skills
 
 - Linux 🐧
+- Proxmox 🟧
 - Docker 🐳
 - Kubernetes 🚢
 - Grafana ☀️
