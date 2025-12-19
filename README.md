@@ -1,6 +1,6 @@
 ## Holaa 👋
 
-Mi nombre es Samuel Quiaro,Vivo en Venezuela Soy Ing. Informática con +3 años Exp en el Sector, especializado en el área de Redes y Soporte Técnico Devops.
+Mi nombre es Samuel Quiaro,Vivo en Venezuela Soy Ing. Informática con +4 años Exp en el Sector, especializado en el área de Redes/Devops y Soporte Técnico.
 
 ## Skills
 
